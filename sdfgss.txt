@@ -1,9 +1,7 @@
 <script>
-<<<<<<< HEAD
 var x = prompt()
 alert (("OOLOLOLO") + (x))
 alert ("DNO")
 =======
 alert ("OOLOLOLO")
->>>>>>> parent of bae3212... var x added
 </script>
