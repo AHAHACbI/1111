@@ -1,3 +1,3 @@
 <script>
-alert ("vasya /n petya");
+alert ("vasya");
 </script>
